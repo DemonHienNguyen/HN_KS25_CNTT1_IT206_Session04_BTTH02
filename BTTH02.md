@@ -20,7 +20,7 @@ Viết User Story cho R5, và giải thích vì sao bạn chọn vai trò đó c
 
 AC 1 (thành công): **Given** quản lý phòng khám đã đăng nhập và đang ở trang chỉnh sửa gói khám, **When** nhập giá mới cho một gói khám rồi nhấn "Lưu", **Then** Hệ thống sẽ tự cập nhật giá gói cho phòng có gói đó và hiển thị thông báo "Cập nhật giá thành công" và hiển thị mức giá cho giao diện quản lý cũng như bệnh nhân
 
-AC 2 (thất bại): **Given** quản lý để trống ô giá, **When** nhấn "Lưu", **Then** Hệ thống sẽ báo không cho lưu và bắt buộc phải điền ô giá cần cập nhật và không được để trống dưới ô nhập giá 
+AC 2 (thất bại): **Given** quản lý để trống ô giá, **When** nhấn "Lưu", **Then** Hệ thống sẽ báo không cho lưu và bắt buộc phải điền ô giá cần cập nhật và không được để trống dưới ô nhập giá
 
 **Bước 3. Thẻ R5 đã sẵn sàng chưa?**
 
@@ -42,5 +42,7 @@ Thẻ R5 đã được chọn vào Sprint. Quy ước nhãn của nhóm: Đỏ l
 Ghi nhãn, người phụ trách, 2–3 mục checklist và hạn hoàn thành cho thẻ R5. Nếu R5 là việc ưu tiên cao nhất, thẻ đặt ở đâu trong cột?
 
 Nếu là vậy thì sẽ để Thẻ 5 sẽ là Màu xanh dương và để ở cột To do (Cần làm)
+
+![1791856825497](image/BTTH02/1791856825497.png)
 
 ![1791856103191](image/BTTH02/1791856103191.png)
